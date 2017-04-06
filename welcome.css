@@ -1,0 +1,46 @@
+
+.content {
+    height: 100%;
+    border: 1px royalblue;
+}
+
+.menulinks {
+    font-weight:bold;
+}
+
+ul.pull-left li, ul.pull-right li {
+    list-style-type:none;
+    padding: 0px 20px;
+    padding-top: 95px;
+    padding-bottom: 35px;
+
+}
+
+ul.pull-left a, ul.pull-right a {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul.pull-right li {
+    display: inline-block;
+    padding: 20px;
+    padding-top: 95px;
+    padding-bottom: 35;
+}
+
+ul.pull-left li {
+    font-size: 25px;
+}
+
+.container-fluid > .row1 {
+    background-color: whitesmoke;
+    font-color: black;
+}
+
+.container > .row2 {
+    background-color: lightgray;
+}
+
+.well well-sm {
+    background-color: royalblue;
+}
